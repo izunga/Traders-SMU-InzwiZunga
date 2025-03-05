@@ -53,20 +53,21 @@ I chose Quantitative Finance because it perfectly bridges my financial aspiratio
 - Data Engineer
 
 **Company Interests:**
-  *Financial Institutions:* 
-    - Morgan Stanley
-    - JP Morgan Chase
-    - Goldman Sachs
-    - BlackRock
-    - Citadel
-    - Jane Street
-    - State Street
-  *Technology Companies*
-    - Apple
-    - Google
-    - Amazon
-    - Microsoft
-    - Meta
+*Financial Institutions:* 
+- Morgan Stanley
+- JP Morgan Chase
+- Goldman Sachs
+- BlackRock
+- Citadel
+- Jane Street
+- State Street
+    
+*Technology Companies*
+- Apple
+- Google
+- Amazon
+- Microsoft
+- Meta
 
 *Targeted Area of Finance*
 I want to focus on investment banking or quantitative finance, particularly in areas such as underwriting, capital markets, and deal structuring. My goal is to develop a deep understanding of the nuances of underwriting, including risk assessment, pricing strategies, and market dynamics. 
@@ -98,30 +99,30 @@ This program aligns with my career goals, offering valuable insight into quantit
 ## 4. Current Technical Skills
 
 *Programming languages (Python, R, etc.):*
-  - Python - Intermediate
-  - Java - Advanced
-  - JavaScript/HTML - Intermediate
-  - SQL - Intermediate
-  - C++ - Advanced
-  - R - Beginner
-  - Swift - Beginner
-  - PHP - Beginner
+- Python - Intermediate
+- Java - Advanced
+- JavaScript/HTML - Intermediate
+- SQL - Intermediate
+- C++ - Advanced
+- R - Beginner
+- Swift - Beginner
+- PHP - Beginner
 
 *Data analysis tools:*
-  - Power BI - Beginner
-  - Azure Cloud Services - Intermediate
+- Power BI - Beginner
+- Azure Cloud Services - Intermediate
 
 *Statistical analysis:* 
-  - Intermediate
+- Intermediate
 
 *Financial modeling:*
-  - Excel - Intermediate
+- Excel - Intermediate
 
 *Machine learning:*
-  - Azure Machine Learning - Beginner
+- Azure Machine Learning - Beginner
 
 *Version control (Git):*
-  - Intermediate
+- Intermediate
 
 *Other relevant skills:*
 - IFRS Certified
@@ -130,15 +131,15 @@ This program aligns with my career goals, offering valuable insight into quantit
 ## 5. Development Plan & Program Goals
 
 *Specific Plan:* 
-  - Learn Quantitative Finance Concepts (high profieciecy)
-  - Learn Statistical Concepts (high proficiency)
-  - Strengthen Programming skills (Financial Specific Programming)
+- Learn Quantitative Finance Concepts (high profieciecy)
+- Learn Statistical Concepts (high proficiency)
+- Strengthen Programming skills (Financial Specific Programming)
 
 *How will I measure your progress?*
-  - Hours Dedicated
-  - Bi-Weekly Self Tests
-  - Coding Projects and Challenges
-  - Finance Challenges
+- Hours Dedicated
+- Bi-Weekly Self Tests
+- Coding Projects and Challenges
+- Finance Challenges
 
 *Weekly Time Commitment*
 1-3 hours weekly (4 hours bi-weekly)
