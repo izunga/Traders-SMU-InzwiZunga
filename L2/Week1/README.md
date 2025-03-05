@@ -39,65 +39,65 @@ Machine Learning in Python, Fundamentals of Algorithms, Data Structures, Advance
 - Connect 4 iOS application
 - Tic-Tac-Toe Mobile Application
 
-Why Quant Finance?
+*Why Quant Finance?*
 I chose Quantitative Finance because it perfectly bridges my financial aspirations with my technical expertise. I have a strong passion for systems, problem-solving, and analytical thinking. This field enables me to tackle complex, real-world challenges while simultaneously creating meaningful value.
 
 
 ## 2. Career Goals
 
-Role interests: 
+*Role interests:* 
 - Software Engineer
 - Quant Trader
 - AI/ML Engineer
 - Investment Banker
 - Data Engineer
 
-Company Interests:
-Financial Institutions: 
-  - Morgan Stanley
-  - JP Morgan Chase
-  - Goldman Sachs
-  - BlackRock
-  - Citadel
-  - Jane Street
-  - State Street
-Technology Companies
-  - Apple
-  - Google
-  - Amazon
-  - Microsoft
-  - Meta
+*Company Interests:*
+  *Financial Institutions:* 
+    - Morgan Stanley
+    - JP Morgan Chase
+    - Goldman Sachs
+    - BlackRock
+    - Citadel
+    - Jane Street
+    - State Street
+  *Technology Companies*
+    - Apple
+    - Google
+    - Amazon
+    - Microsoft
+    - Meta
 
-Area of Finance
+*Targeted Area of Finance*
 I want to focus on investment banking or quantitative finance, particularly in areas such as underwriting, capital markets, and deal structuring. My goal is to develop a deep understanding of the nuances of underwriting, including risk assessment, pricing strategies, and market dynamics. 
 
-What you hope to achieve in 1, 5, and 10 years
+*What you hope to achieve in 1, 5, and 10 years?*
 In one year, I aim to gain hands-on experience in investment banking, refining my financial modeling and valuation skills. In five years, I hope to take on a leadership role, driving strategic transactions and expanding my industry expertise. In ten years, I aspire to be a key decision-maker, leveraging my technical and financial acumen to lead high-impact investments and shape market strategies.
 
 ## 3. What I Hope to Learn from This Program
 
-Technical Skill Goals:
+*Technical Skill Goals:*
 - I plan to build my knowledge base in Mathematics and Statistics.
 - I plan to learn how to apply financial concepts, mathematics, and statistics in my programming
 - I plan to hone my programming skill even more
 
-Financial Concepts:
+*Financial Concepts:*
 - I plan on understanding how to apply the Greeks effectively
 - I plan on growing my knowledge base on financial concepts (especially pricing)
 
-Tools:
+*Tools:*
 - I plan on learning how financial systems work (Trading platform etc...)
 - I plan on deeping my knowledge on Jupyter Notebooks
 
-Network: 
+*Network:* 
 I hope to build a strong network of individual at all level in a plethora of sectors of quantitive finance but now exclusively. I aim to grow a professionally diverse and versatile network of people I look to learn from and draw expertise from.
 
-How this program fits into my overall learning path
+*How this program fits into my overall learning path*
 This program aligns with my career goals, offering valuable insight into quantitative finance and helping me identify my strengths. It will allow me to focus on areas where I can maximize my impact and add the most value.
 
 ## 4. Current Technical Skills
 
-Programming languages (Python, R, etc.):
+*Programming languages (Python, R, etc.):*
   - Python - Intermediate
   - Java - Advanced
   - JavaScript/HTML - Intermediate
@@ -106,24 +106,24 @@ Programming languages (Python, R, etc.):
   - R - Beginner
   - Swift - Beginner
   - PHP - Beginner
-- 
-Data analysis tools:
+
+*Data analysis tools:*
   - Power BI - Beginner
   - Azure Cloud Services - Intermediate
 
-Statistical analysis: 
+*Statistical analysis:* 
   - Intermediate
 
-Financial modeling:
+*Financial modeling:*
   - Excel - Intermediate
 
-Machine learning:
+*Machine learning:*
   - Azure Machine Learning - Beginner
 
-Version control (Git):
+*Version control (Git):*
   - Intermediate
 
-Other relevant skills:
+*Other relevant skills:*
 - IFRS Certified
 - Excel Financial Reporting Certified (South Africa)
 
