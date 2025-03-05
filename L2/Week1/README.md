@@ -52,7 +52,8 @@ I chose Quantitative Finance because it perfectly bridges my financial aspiratio
 - Investment Banker
 - Data Engineer
 
-**Company Interests:**
+*Company Interests:*
+
 *Financial Institutions:* 
 - Morgan Stanley
 - JP Morgan Chase
