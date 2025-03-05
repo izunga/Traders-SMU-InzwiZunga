@@ -16,24 +16,21 @@ Detailed instructions for Week 1 activities go here.
 
 # Personal Goals Document - Traders@SMU Alpha Program
 
-*Replace this text with your full name* 
-*Replace this text with your SMU email address* 
-
 Inzwi Zunga
 Izunga@smu.edu
-*Level 2 (Associate)*
+Level 2 (Associate)
 
 ## 1. Background in Quantitative Finance
 
-My relevant coursework includes the following: 
+*My relevant coursework includes the following:* 
 Machine Learning in Python, Fundamentals of Algorithms, Data Structures, Advanced Python, Software Testing/Qual Assurance, Principles of Computer Science II (C++), Principles of Computer Science I (Java), Intro to Database Systems, Discrete Computational Structures, Computer Programming I (Python), Computer Programming II (Python), Statistical Methods for Engineers, Linear Algebra, Real Estate Market Analysis, Computer Organization
 
-My internship experience is as follows:
+*My internship experience is as follows:*
 - Real Estate Strategic Analytics Summer Specialist at Invesco
 - Data Analyst/Full Stack Developer at 3E Management
 - Investment Analyst at RH Managers
 
-I have undertaken the following personal projects: 
+*I have undertaken the following personal projects:* 
 - InfoSavvy: Compass - AI power advising assistance
 - Stock Recommendation Chatbot Assistant 
 - HeyStang: AI Social Media Platform
@@ -132,14 +129,29 @@ Other relevant skills:
 
 ## 5. Development Plan & Program Goals
 
-*In this section, outline:*
-- *Specific skills you plan to develop during this program*
-- *How you will measure your progress*
-- *Time commitment you're planning to dedicate each week*
-- *Resources you'll use beyond the program materials*
-- *Your definition of success for this program*
+*Specific Plan:* 
+  - Learn Quantitative Finance Concepts (high profieciecy)
+  - Learn Statistical Concepts (high proficiency)
+  - Strengthen Programming skills (Financial Specific Programming)
 
-*Delete these instructions and write 100-150 words*
+*How will I measure your progress?*
+  - Hours Dedicated
+  - Bi-Weekly Self Tests
+  - Coding Projects and Challenges
+  - Finance Challenges
+
+*Weekly Time Commitment*
+1-3 hours weekly (4 hours bi-weekly)
+
+*Resources you'll use beyond the program materials*
+- Online Problem sets
+- Youtube
+- Khan Academy
+- LeetCode
+
+*Your definition of success for this program*
+- High Dedication
+
 
 ---
 
